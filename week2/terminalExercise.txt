@@ -1,0 +1,68 @@
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$ mkdir terminal-lesson
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$ ls
+ 306/                                animation/
+'AltayTaneri_ITF 409 MT Exam.docx'   bacckup/
+ Bitirme/                            client.jar
+ Blender.lnk*                        desktop.ini
+ Discord.lnk*                        games/
+ Hüso/                              'i?e giri? ve staj belgeleri'/
+'Nmap - Zenmap GUI.lnk'*             nps/
+'Okul dökümanlar?'/                 'studio64.exe - Shortcut.lnk'*
+'Professional Sheets'/               terminal-lesson/
+ Spotify.lnk*                       '~$9.3.docx'
+'Visual Studio Code.lnk'*           '~$SE318.docx'
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$ cd terminal-lesson
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson
+$ mkdir src
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson
+$ cd src
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson/src
+$ touch index.html
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson/src
+$ touch style.css
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson/src
+$ touch script.js
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson/src
+$ ls
+index.html  script.js  style.css
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson/src
+$ cd ..
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop/terminal-lesson
+$ cd ..
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$ rm -r terminal-lesson
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$ ls
+ 306/                                bacckup/
+'AltayTaneri_ITF 409 MT Exam.docx'   client.jar
+ Bitirme/                            desktop.ini
+ Blender.lnk*                        games/
+ Discord.lnk*                       'i?e giri? ve staj belgeleri'/
+ Hüso/                               nps/
+'Nmap - Zenmap GUI.lnk'*            'studio64.exe - Shortcut.lnk'*
+'Okul dökümanlar?'/                  terminalExercise.txt
+'Professional Sheets'/              '~$9.3.docx'
+ Spotify.lnk*                       '~$SE318.docx'
+'Visual Studio Code.lnk'*           '~$rminalExercise.txt'
+ animation/
+
+Altay Taneri@DESKTOP-KUJLGFA MINGW64 ~/Desktop
+$
+
+
