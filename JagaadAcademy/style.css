@@ -433,3 +433,93 @@ header {
     height: 30px;
     margin-left: 10px;
 }
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-right: 100px;
+
+}
+
+.getStarted {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #3734A9;
+    width: 221px;
+    height: 30px;
+}
+
+.Email {
+    background: #FFFFFF;
+    border: 1px solid #DFE4F1;
+    border-radius: 5px;
+    width: 356px;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+
+}
+
+.EmailText {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+    opacity: 0.4;
+    margin-left: 10px;
+}
+
+.getStartedButton {
+    background: #FF7F5C;
+    border-radius: 5px;
+    width: 356px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.getStartedButtonText {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.trust {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+    margin-top: 100px;
+}
+
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 90px;
+    margin-top: 30px;
+}
