@@ -10,6 +10,10 @@
     border-radius: 22px;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
 h1 {
     font-family: 'Manrope';
     font-style: normal;
@@ -312,6 +316,8 @@ h6 {
     font-size: 16px;
     line-height: 16px;
     color: #01966B;
+    align-self: self-start;
+    margin-left: 50px;
 }
 
 .button {
@@ -319,9 +325,7 @@ h6 {
     height: 60px;
     background: #4F46BA;
     border-radius: 10px;
-    left: 40%;
-    margin-top: 50px;
-    position: absolute;
+    margin: 50px auto;
 }
 
 .buttonText {
@@ -522,4 +526,11 @@ header {
     margin-right: 60px;
     margin-bottom: 90px;
     margin-top: 30px;
+}
+
+.blue {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
 }
