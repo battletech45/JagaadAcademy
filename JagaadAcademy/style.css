@@ -534,3 +534,17 @@ header {
     right: 0;
     z-index: -1;
 }
+
+.polygon {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: -1;
+}
+
+.bigPolygon {
+    position: absolute;
+    right: 0;
+    top: 170%;
+    z-index: -1;
+}
